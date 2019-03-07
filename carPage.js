@@ -18,8 +18,6 @@ car.forEach((CAR) => {
     
 let carElement = document.createElement('div');
 
-let carMake = document.createElement('p');
-
 carElement.className = 'box';
 
 carMake.textContent = CAR.make;
