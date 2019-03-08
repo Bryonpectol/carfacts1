@@ -18,7 +18,7 @@ export const cars = [
 },
 
 {
-    "make": "Ford",
+    "make": "Dodge",
     "name": "Caravan",
     "year": "1994",
     "hp": "140",
@@ -73,7 +73,7 @@ export const cars = [
 
 {
     "make": "Dodge",
-    "name": "Stratos",
+    "name": "Stratus",
     "year": "1994",
     "hp": "140",
     "drive": "FWD",
