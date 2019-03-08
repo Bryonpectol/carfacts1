@@ -2,662 +2,397 @@ export const cars = [
 {
     "make": "Abadal",
     "name": "Abadal 25 HP 1914",
-    "year": "1914",
-    "Origin": "Spain",
-    "hp": "25",
-    "drive": "Unknown",
-    "transmission": "Unknown",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1914",
+    "origin": "Spain",
+    "hp": "hp: 25",
+    "drive": "Drive: Unknown",
+    "transmission": "Transmission: Unknown",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "0-60 in KPH: na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abadal",
     "name": "Abadal-Buick 1923",
-    "year": "1923",
+    "year": "Year: 1923",
     "origin": "Spain",
-    "hp": "Unknown",
-    "drive": "Unknown",
-    "transmission": "Unknown",
-    "engine": "4521 cc six-cylinder engine",
-    "price": "n/a"
+    "hp": "hp: Unknown",
+    "drive": "Drive: Unknown",
+    "transmission": "Transmission: Unknown",
+    "engine": "Engine: 4521 cc six-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "1500 Biposto Coupe Bertone",
-    "year": "1952",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1952",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "207A Spyder",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "207A Spyder Boano",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "2000 Ghia Coupe Concept",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "Fiat 600 Conversions",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "208A Spyder Boano",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "209A Coupe Boano",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make": "Abarth",
     "name": "600 Berlina Conversions",
-    "year": "1994",
-    "hp": "140",
-    "drive": "FWD",
-    "transmission": "5-speed manual",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: 1994",
+    "origin": "Spain",
+    "hp": "hp: 140",
+    "drive": "Drive: FWD",
+    "transmission": "Transmission: 5-speed manual",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
     "name" : "215A Coupe Bertone",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
     "name" : "216A Spyder Bertone",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
     "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Fiat 500 Typ 110-120 Conversions",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Fiat 500 Abarth Zagato",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Fiat 600 Abarth Zagato",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Abarth Alfa Romeo Derivazione",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "500 Record Pininfarina",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Alfa Romeo Conversions",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Allemano Spider 750",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Rekord Monza Zagato Coupe",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "0-60: na",
+    "torque": "Torque: na"
 },
 
 {
     "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
+    "name" : "Cabriolet Allemano 2200-2400",
+    "year": "Year: n/a",
+    "origin": "Spain",
+    "hp" : "hp: n/a",
+    "drive" : "Drive: n/a",
+    "transmission" : "Transmission: n/a",
+    "engine": "Engine: 3104 cc four-cylinder engine",
+    "price": "Price: n/a",
+    "MPG": "MPG: n/a",
+    "MPHandKPH": "MPH/KPH: na/na",
+    "weight": "Weight: n/a",
+    "zeroto": "0-60(mph): na",
+    "0to60inkph": "na",
+    "torque": "Torque: na"
 },
 
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "750 Spider Boano",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
+]
