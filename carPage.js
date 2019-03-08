@@ -21,11 +21,14 @@ const allCars = cars.map(myCar => {
       zeroto: myCar.zeroto,
       MPG: myCar.MPG,
       torque: myCar.torque,
-      year: myCar.year
+      year: myCar.year,
+      cylinders: myCar.cylinders,
+      MPHandKPH: myCar.MPHandKPH
     };
   });
 
   const mainContainer = document.createElement("div");
+  const footerElement = document.createElement('footer');
 
   mainContainer.className = "container";
 
@@ -43,6 +46,7 @@ const allCars = cars.map(myCar => {
       let br9Element = document.createElement('br');
       let br10Element = document.createElement('br');
       let br11Element = document.createElement('br');
+      let br12Element = document.createElement('br');
 
       // this section is to create the html elements.
       let makeElement = document.createElement('div');
@@ -58,11 +62,14 @@ const allCars = cars.map(myCar => {
       let mpgElement = document.createElement('p');
       let torqueElement = document.createElement('p');
       let yearElement = document.createElement('p');
+      let cylindersElement = document.createElement('p');
+      let mphkphElement = document.createElement('p');
 
 
     // assigning classes.
     makeElement.className = 'box';
     carElement.className = 'name';
+    footerElement.className = 'footeryes';
 
       // Makes the actual array display on the document.
       makeElement.textContent = myCar.mAKE;
@@ -78,6 +85,12 @@ const allCars = cars.map(myCar => {
       mpgElement.textContent = myCar.MPG;
       torqueElement.textContent = myCar.torque;
       yearElement.textContent = myCar.year;
+      cylindersElement.textContent = myCar.cylinders;
+      mphkphElement.textContent = myCar.MPHandKPH;
+
+
+      // Creates the footer.
+      footerElement.textContent = "allcarcards.com © All rights Reserved. Privacy Policy";
  
 
       // Appended Childeren, the order the elements appear.
@@ -105,6 +118,9 @@ const allCars = cars.map(myCar => {
 
       makeElement.appendChild(br7Element);
       makeElement.appendChild(weightElement);
+      
+      makeElement.appendChild(br12Element);
+      makeElement.appendChild(mphkphElement);
 
       makeElement.appendChild(br8Element);
       makeElement.appendChild(zeroto60Element);
@@ -114,10 +130,15 @@ const allCars = cars.map(myCar => {
 
       makeElement.appendChild(br10Element);
       makeElement.appendChild(torqueElement);
+      
+      makeElement.appendChild(br11Element);
+      makeElement.appendChild(cylindersElement);
+
      
   });
 
   // You need this.
   document.body.appendChild(mainContainer);
+  document.body.appendChild(footerElement);
 
   // console.log(allCars);

@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    /* width: 1260px; */
+    width: 1260px;
 }
 
 .name {
@@ -42,7 +42,7 @@ body {
 
 .container div {
    margin: 10px;
-   width: 200px;
+   width: 350px;
    text-align: center;
    
 }
@@ -67,4 +67,11 @@ body {
 
 .nav-h1 {
     color: midnightblue;
+}
+
+.footeryes {
+    height: 100px;
+    text-align: center;
+    color: midnightblue;
+    background-color: grey;
 }
