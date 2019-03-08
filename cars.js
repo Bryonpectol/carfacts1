@@ -135,17 +135,6 @@ export const cars = [
 
 {
     "make" : "Abarth",
-    "name" : "216A Spyder Bertone",
-    "year": "n/a",
-    "hp" : "n/a",
-    "drive" : "n/a",
-    "transmission" : "n/a",
-    "engine": "3104 cc four-cylinder engine",
-    "price": "n/a"
-},
-
-{
-    "make" : "Abarth",
     "name" : "750 Spider Boano",
     "year": "n/a",
     "hp" : "n/a",
