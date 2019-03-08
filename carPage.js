@@ -2,14 +2,14 @@ import { cars } from "/cars.js";
 
 
 
-const allCars = cars.map(CARS => {
+const allCars = cars.map(myCar => {
     let carsYeah = cars.find(CAR => {
-      return CAR.make === CARS.make;
+      return CAR.make === myCar.make;
     });
 
     return {
-      name: CARS.name,
-      make: carsYeah.make
+      nAME: myCar.name,
+      mAKE: carsYeah.make
     
     };
   });
@@ -18,17 +18,25 @@ const allCars = cars.map(CARS => {
 
   mainContainer.className = "container";
 
-  allCars.forEach(CARS => {
+  allCars.forEach(myCar => {
+
       let makeElement = document.createElement('div');
       let carElement = document.createElement('p');
 
 
     makeElement.className = 'box';
 
+      makeElement.textContent = myCar.mAKE;
+      carElement.textContent = myCar.nAME;
+ 
 
 
+     
       mainContainer.appendChild(makeElement);
-      mainContainer.appendChild(carElement);
+      makeElement.appendChild(carElement);
+     
   });
+
+  document.body.appendChild(mainContainer);
 
   console.log(allCars);
