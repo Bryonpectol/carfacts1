@@ -25,8 +25,6 @@ const allCars = cars.map(CARS => {
 
     makeElement.className = 'box';
 
-      makeElement.textContent = CARS.make;
-      carElement.textContent = CARS.name;
 
 
       mainContainer.appendChild(makeElement);
