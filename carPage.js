@@ -38,8 +38,3 @@ mainContainer.appendChild(carElement);
 });
 
 
-
-document.body.appendChild(mainContainer);
-
-// console.log(car);
-console.log(yes);
