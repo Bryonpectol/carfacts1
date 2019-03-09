@@ -23,7 +23,8 @@ const allCars = cars.map(myCar => {
       torque: myCar.torque,
       year: myCar.year,
       cylinders: myCar.cylinders,
-      MPHandKPH: myCar.MPHandKPH
+      MPHandKPH: myCar.MPHandKPH,
+      image: myCar.image
     };
   });
 
@@ -64,6 +65,7 @@ const allCars = cars.map(myCar => {
       let yearElement = document.createElement('p');
       let cylindersElement = document.createElement('p');
       let mphkphElement = document.createElement('p');
+      let imageElement = document.createElement('img');
 
 
     // assigning classes.
@@ -87,6 +89,7 @@ const allCars = cars.map(myCar => {
       yearElement.textContent = myCar.year;
       cylindersElement.textContent = myCar.cylinders;
       mphkphElement.textContent = myCar.MPHandKPH;
+      imageElement.src = myCar.image;
 
 
       // Creates the footer.
@@ -96,6 +99,10 @@ const allCars = cars.map(myCar => {
       // Appended Childeren, the order the elements appear.
       mainContainer.appendChild(makeElement);
       makeElement.appendChild(carElement);
+      makeElement.appendChild(imageElement);
+
+      makeElement.appendChild(br11Element);
+      makeElement.appendChild(cylindersElement);
 
       makeElement.appendChild(br1Element);
       makeElement.appendChild(originElement);
