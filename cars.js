@@ -91,7 +91,7 @@ export const cars = [
     "price": "Price: n/a",
     "MPG": "MPG: n/a",
     "MPHandKPH": "Top Speed(MPH/KPH): na/na",
-    "weight": "Weight: n/a",
+    "weight": "We ight: n/a",
     "zeroto": "0-60(mph): na",
     "0to60inkph": "na",
     "torque": "Torque: na",
