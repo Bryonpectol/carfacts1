@@ -324,25 +324,6 @@ export const cars = [
 
 {
     "make" : "Abarth",
-    "name" : "Alfa Romeo Conversions",
-    "year": "Year: 1958",
-    "origin": "Italy",
-    "hp" : "hp: n/a",
-    "drive" : "Drive: n/a",
-    "transmission" : "Transmission: n/a",
-    "engine": "Engine: 3104 cc four-cylinder engine",
-    "price": "Price: n/a",
-    "MPG": "MPG: n/a",
-    "MPHandKPH": "Top Speed(MPH/KPH): na/na",
-    "weight": "Weight: n/a",
-    "zeroto": "0-60(mph): na",
-    "0to60inkph": "na",
-    "torque": "Torque: na",
-    "cylinders": "Cylinders: na"
-},
-
-{
-    "make" : "Abarth",
     "name" : "Allemano Spider 750",
     "year": "Year: 1958",
     "origin": "Italy",
@@ -375,25 +356,6 @@ export const cars = [
     "weight": "Weight: n/a",
     "zeroto": "0-60(mph): na",
     "0to60inkph": "0-60: na",
-    "torque": "Torque: na",
-    "cylinders": "Cylinders: na"
-},
-
-{
-    "make" : "Abarth",
-    "name" : "Cabriolet Allemano 2200-2400",
-    "year": "Year: 1959",
-    "origin": "Italy",
-    "hp" : "hp: n/a",
-    "drive" : "Drive: n/a",
-    "transmission" : "Transmission: n/a",
-    "engine": "Engine: 3104 cc four-cylinder engine",
-    "price": "Price: n/a",
-    "MPG": "MPG: n/a",
-    "MPHandKPH": "Top Speed(MPH/KPH): na/na",
-    "weight": "Weight: n/a",
-    "zeroto": "0-60(mph): na",
-    "0to60inkph": "na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na"
 },
