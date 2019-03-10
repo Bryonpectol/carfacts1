@@ -99,13 +99,14 @@ const allCars = cars.map(myCar => {
       // Appended Childeren, the order the elements appear.
       mainContainer.appendChild(makeElement);
       makeElement.appendChild(carElement);
+      makeElement.appendChild(originElement);
       makeElement.appendChild(imageElement);
 
       makeElement.appendChild(br11Element);
-      makeElement.appendChild(cylindersElement);
+      // makeElement.appendChild(cylindersElement);
 
       makeElement.appendChild(br1Element);
-      makeElement.appendChild(originElement);
+     
       makeElement.appendChild(yearElement);
 
       makeElement.appendChild(br2Element);
