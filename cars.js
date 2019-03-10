@@ -7,7 +7,7 @@ export const cars = [
     "hp": "hp: 25",
     "drive": "Drive: Unknown",
     "transmission": "Transmission: 4-speed manual",
-    "engine": "Engine: 3104 cc four-speed engine",
+    "engine": "Engine: 3104cc four-speed engine",
     "price": "Price: $910.34",
     "MPG": "MPG: n/a",
     "MPHandKPH": "Top Speed(MPH/KPH): na/115",
@@ -27,7 +27,7 @@ export const cars = [
     "hp": "hp: Unknown",
     "drive": "Drive: Unknown",
     "transmission": "Transmission: Unknown",
-    "engine": "Engine: 4521 cc six-cylinder engine",
+    "engine": "Engine: 4521cc six-cylinder engine",
     "price": "Price: n/a",
     "MPG": "MPG: n/a",
     "MPHandKPH": "Top Speed(MPH/KPH): na/na",
@@ -47,7 +47,7 @@ export const cars = [
     "hp": "hp: 74",
     "drive": "Drive: RWD",
     "transmission": "Transmission: 4-speed manual",
-    "engine": "Engine: 3104 cc four-cylinder engine",
+    "engine": "Engine: 1.5 litre inline-4 1480cc",
     "price": "Price: n/a",
     "MPG": "MPG:  20.2",
     "MPHandKPH": "Top Speed(MPH/KPH): 98/158",
@@ -536,7 +536,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://cdn.bringatrailer.com/wp-content/uploads/2015/09/lHk8QRSUAkntuIn1.jpg"
 },
 
 {
@@ -556,7 +556,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.carstyling.ru/Static/SIMG/420_0_I_MC_jpg_W/resources/studios/1959-Allemano-Abarth-850-Spyder-Riviera-01.jpg?B961B808875EADE6C57E5092D4068F31"
 },
 
 {
@@ -576,7 +576,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.abarth-germany.de/images/Abarth%2070.jpg"
 },
 
 {
@@ -596,7 +596,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.madle.org/og05abarth1600s59.jpg"
 },
 
 {
@@ -616,7 +616,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.coachbuild.com/forum/download/file.php?id=44105&t=1"
 },
 
 {
@@ -636,7 +636,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.carfolio.com/images/dbimages/zgas/models/id/23548/osca%201050%20coup%C3%A9%20s%20front%20%C2%BE.jpg"
 },
 
 {
@@ -656,7 +656,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.bernimotori.com/images/cars/simca_1300/simca_1300_1.jpg"
 },
 
 {
@@ -676,7 +676,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.automobile-catalog.com/img/pictonorzw/abarth/ab-simca-1150ss.jpg"
 },
 
 {
@@ -696,7 +696,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.bernimotori.com/images/cars/simca_abarth_1150_berlina/simca_abarth_1150_berlina_1.jpg"
 },
 
 {
@@ -716,7 +716,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.automobile-catalog.com/img/pictonorzw/abarth/simcaab.jpg"
 },
 
 {
@@ -736,7 +736,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.ultimatecarpage.com/images/car/6014/Abarth-Simca-2000-GT-50460.jpg"
 },
 
 {
@@ -756,7 +756,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.supercars.net/blog/wp-content/uploads/2016/04/633222.jpg"
 },
 
 {
@@ -776,7 +776,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Fiat_850_Special_1968.jpg"
 },
 
 {
@@ -796,7 +796,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://i.pinimg.com/originals/50/a9/46/50a946cf678c4f910b9350160889ae1c.jpg"
 },
 
 {
@@ -816,7 +816,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://i.wheelsage.org/pictures/a/abarth/fiat/o.t.r._1000_berlinetta/fiat_abarth_o.t.r._1000_berlinetta.jpeg"
 },
 
 {
@@ -836,7 +836,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.carstyling.ru/resources/studios/1964_Pininfarina_Abarth_1000_Spider_03.jpg"
 },
 
 {
@@ -856,7 +856,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.automobile-catalog.com/img/pictonorzw/abarth/ab1300coupe-1968.jpg"
 },
 
 {
@@ -876,7 +876,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.abarth-exhausts.com/wp-content/uploads/2012/07/Fiat-850-Spider1-300x169.jpg"
 },
 
 {
@@ -896,7 +896,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://img.favcars.com/abarth/ot-1300/photos_abarth_ot-1300_1966_1_b.jpg"
 },
 
 {
@@ -916,7 +916,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.bernimotori.com/images/cars/1600%20OT/1600%20OT_3.jpg"
 },
 
 {
@@ -936,7 +936,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://4.bp.blogspot.com/-RzyeehOhaJs/VkqgW2JGt4I/AAAAAAAACq0/-pPSuovUXnU/s1600/66-Abarth-1000_SP_Barchetta-DV-09_MBC_02.jpg"
 },
 
 {
@@ -956,7 +956,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://i.ebayimg.com/thumbs/images/g/554AAOSwOylccaCI/s-l225.jpg"
 },
 
 {
@@ -976,7 +976,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://images.cdn.circlesix.co/image/1/700/0/uploads/posts/2015/12/634831b0b125e42a19922430ffa1a626.jpeg"
 },
 
 {
@@ -996,7 +996,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://mroks.com/wp-content/uploads/1333/74/Abarth-2000-Grp.4.jpg"
 },
 
 {
@@ -1016,7 +1016,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://rmsothebys-cache.azureedge.net/8/9/1/f/f/e/891ffe09cdbf18ac1f5cdea8920bab146cca3649.jpg"
 },
 
 {
@@ -1036,7 +1036,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://car-images.bauersecure.com/pagefiles/4233/punto-grande.jpg"
 },
 
 {
@@ -1056,7 +1056,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://cdn2.autoexpress.co.uk/sites/autoexpressuk/files/2016/06/160607_abarth_595_09.jpg"
 },
 
 {
@@ -1076,7 +1076,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://3.bp.blogspot.com/-KtZZa8bQmp0/UkUFUUEutAI/AAAAAAAAIwI/6Kv2CBo3vAo/s1600/2013-500c-Abarth-Front.jpg"
 },
 
 {
@@ -1096,7 +1096,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://images.buyacar.co.uk/img/med/abarth_500_hatchback_185851.jpg"
 },
 
 {
@@ -1116,7 +1116,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.dealermanager.co.uk/images/201710/large/DM7484-zktcywsk.JPG"
 },
 
 {
@@ -1136,7 +1136,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://auto.ndtvimg.com/car-images/gallery/abarth/595/exterior/abarth-front.jpg?v=2017-01-09"
 },
 
 {
@@ -1156,7 +1156,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://abarth.hr/site/UK-EN/PublishingImages/box-2-maserati.jpg"
 },
 
 {
@@ -1176,7 +1176,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fiat_Punto_Evo_Abarth_%281._Facelift%29_%E2%80%93_Frontansicht%2C_1._April_2012%2C_Essen.jpg"
 },
 
 {
@@ -1196,7 +1196,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://www.forcegt.com/wp-content/uploads/2015/01/2015-abarth-595-competizione-convertible-review.jpg"
 },
 
 {
@@ -1216,7 +1216,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://cdn1.autoexpress.co.uk/sites/autoexpressuk/files/4/40//141202_abarth_695-biposto_06.jpg"
 },
 
 {
@@ -1236,7 +1236,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/2018_Abarth_124_Spider_Multiair_1.4.jpg"
 },
 
 {
@@ -1256,7 +1256,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://cdn2.evo.co.uk/sites/evo/files/styles/gallery_adv/public/2019/01/f_9927.jpg?itok=B-JOOpAx"
 },
 
 {
@@ -1276,7 +1276,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://vcache.arnoldclark.com/imageserver/AFRRNLE8A6-ONP9/800/f"
 },
 
 {
@@ -1296,7 +1296,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://pictures.topspeed.com/IMG/jpg/201706/abarth-695-rivale-2.jpg"
 },
 
 {
@@ -1316,7 +1316,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://i.ytimg.com/vi/AEWIRFgIA-k/maxresdefault.jpg"
 },
 
 {
@@ -1336,7 +1336,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "http://www.cityam.com/assets/uploads/main-image/cam_standard_article_main_image/2018/09/arbarth-5b8d73645477d-5b8d73e44980f.jpg"
 },
 
 {
@@ -1356,7 +1356,7 @@ export const cars = [
     "0to60inkph": "0-60 in KPH: na",
     "torque": "Torque: na",
     "cylinders": "Cylinders: na",
-    "image": ""
+    "image": "https://pictures.topspeed.com/IMG/jpg/201703/abarth-695-xsr-yamah-3.jpg"
 }
 
 ]

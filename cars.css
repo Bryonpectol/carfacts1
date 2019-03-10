@@ -28,6 +28,10 @@ body {
     text-align: center;
 }
 
+#hone {
+    color: midnightblue;
+    font-size: 45px;
+}
 
 .container {
     display: flex;
