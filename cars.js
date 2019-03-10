@@ -61,26 +61,6 @@ export const cars = [
 
 {
     "make": "Abarth",
-    "name": "207A Spyder",
-    "year": "Year: 1954",
-    "origin": "Italy",
-    "hp": "hp: 140",
-    "drive": "Drive: FWD",
-    "transmission": "Transmission: 5-speed manual",
-    "engine": "Engine: 3104 cc four-cylinder engine",
-    "price": "Price: n/a",
-    "MPG": "MPG: n/a",
-    "MPHandKPH": "Top Speed(MPH/KPH): na/na",
-    "weight": "Weight: n/a",
-    "zeroto": "0-60(mph): na",
-    "0to60inkph": "na",
-    "torque": "Torque: na",
-    "cylinders": "Cylinders: na",
-    "image": "https://myntransportblog.files.wordpress.com/2015/11/1955-abarth-207a-spyder-corsa-boano1.jpg?w=840"
-},
-
-{
-    "make": "Abarth",
     "name": "207A Spyder Boano",
     "year": "Year: 1954",
     "origin": "Italy",
